@@ -66,6 +66,7 @@ UNIT 5: TPU SYSTEMS (How it runs fast on hardware)                              
 
 | Document | Purpose |
 |---|---|
+| [roadmap/master.md](roadmap/master.md) | **One-page master roadmap:** unit map diagram, all chapters, papers, deliverables and a progress checklist |
 | [READING_LIBRARY.md](READING_LIBRARY.md) | Annotated bibliography of the 20 primary pretraining papers (plus the MaxText repo and supplementary citations), with direct links |
 | [GLOSSARY.md](GLOSSARY.md) | Master glossary of equations, metrics, and system concepts |
 | [templates/EXPERIMENT_LOG_TEMPLATE.md](templates/EXPERIMENT_LOG_TEMPLATE.md) | Rigorous ablation and hypothesis template |
